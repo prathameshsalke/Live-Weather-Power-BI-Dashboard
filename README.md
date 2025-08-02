@@ -121,5 +121,5 @@ To deliver a **real-time environmental intelligence dashboard** that:
 
 For any questions or collaboration ideas, reach out at:  
 📧 prathameshsalke8094@gmail.com
-🌐 [LinkedIn](www.linkedin.com/in/prathamesh-salke-57a169281)
+
 
