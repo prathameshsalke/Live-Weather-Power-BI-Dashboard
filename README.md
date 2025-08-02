@@ -99,12 +99,6 @@ To deliver a **real-time environmental intelligence dashboard** that:
 ### Dashboard Report 
 ![AQI Cards](https://github.com/prathameshsalke/Live-Weather-Power-BI-Dashboard/blob/main/Live%20weather%20Report.png)
 
-### Dashboard Video 
-![Dashboard Preview](https://github.com/prathameshsalke/Live-Weather-Power-BI-Dashboard/blob/main/Live%20Weather%20Report%20video.mp4)
-
-
-
-
 
 ---
 
